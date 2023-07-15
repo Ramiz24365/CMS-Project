@@ -1,0 +1,34 @@
+#header{
+    padding-top: 20px;
+}
+#header .col-md-3 h4 span{
+    font-weight: bolder;
+    color: #00B0FF;
+}
+#mid{
+    margin-top: 5px;
+}
+#mid .list-group{
+    width: 200px;
+}
+#mid .list-group a{
+    font-weight: bolder;
+}
+#mid .list-group a:hover{
+    background-color: #00B0FF;
+    transition:ease-out;
+    transition-duration: 1s;
+}
+#mid img{
+    width: 100%;
+    margin-top: 60px;
+}
+#mid h2{
+    color: #00B0FF;
+}
+#mid table .btn-success{
+    font-size: 12px;
+}
+#mid table .btn-danger{
+    font-size: 12px;
+}

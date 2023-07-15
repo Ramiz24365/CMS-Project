@@ -1,0 +1,57 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 630px;
+}
+#login h2{
+    text-align: center;
+}
+#login #b2 {
+    text-decoration: none;
+}
+#header ul li a{
+    color: white;
+    font-weight: bolder;
+}
+#header ul li a span{
+    color:#00B0FF ;
+}
+#mid .card{
+    box-shadow: 6px 6px 0px 2px #00B0FF;
+}
+#mid .card img{
+    border-radius: 50%;
+}
+#mid .card p{
+    color:  #AEADA3;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+#mid .container{
+    margin-top: 35px;
+}
+#mid .card img{
+    margin-top: 10px;
+}
+#mid h2 span{
+    color: #00B0FF;
+}
+#footer{
+    margin-top: 50px;
+}
+#footer p{
+    margin:25px 0px;
+    text-align: center;
+    color: white;
+}
+#footer .col-md-4 a i{
+    text-align: center;
+    font-size: 35px;
+    color:#00B0FF ;
+    margin-left: 35px;
+}
+#footer .col-md-4 a i:hover{
+    font-size:42px ;
+    transition-duration: 0.3s;
+}
